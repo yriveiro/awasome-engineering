@@ -23,4 +23,4 @@ Windows Live.
 
 ### References
 
-[1] Isard, Michael, "Autopilot: Automatic Data CenterOperation", Operating Systems Review, April,2007, http://research.microsoft.com/users/misard/papers/osr2007.pdf.
+[1]: Isard, Michael, "Autopilot: Automatic Data CenterOperation", Operating Systems Review, April,2007, http://research.microsoft.com/users/misard/papers/osr2007.pdf.
