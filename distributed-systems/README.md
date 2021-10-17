@@ -24,3 +24,19 @@ Windows Live.
 ### References
 
 1 - Isard, Michael, "Autopilot: Automatic Data CenterOperation", Operating Systems Review, April,2007, http://research.microsoft.com/users/misard/papers/osr2007.pdf.
+
+## Distributed Systems - A free online class
+
+* Link: [Distributed Systems](https://www.distributedsystemscourse.com/)
+* Authors: Chris Colohan
+
+### Abstract
+
+This is an introductory course in Distributed Systems. Distributed systems is
+the study of how to build a computer system where the state of the program is
+divided over more than one machine (or "node").
+
+This course is in active development. At the moment, it consists of a series
+of short videos. The intention is to create a complete set of video lectures
+and then add additional content (such as more projects). Sadly progress is
+slow due to my other commitments getting in the way...
